@@ -1,0 +1,6 @@
+This repository is my first Python Jupyternotebook for studying the BAO.
+
+01_test: a fake halo catalog pipeline
+02_catalog: tested a larger MultiDark halo catalog (I chose MultiDark because initially when i tested bolplanck it was too small to clearly show the BAO bump, although right now it's also kinda obscure) 
+
+Large simulation data files are not included in this repository, you will have to download it yourself. However, the download code from halotools public data source is included in the 01 and 02 file. 
