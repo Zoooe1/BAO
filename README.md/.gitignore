@@ -1,0 +1,10 @@
+data/
+*.hdf5
+*.h5
+*.fits
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
